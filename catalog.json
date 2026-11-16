@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "channel": "community",
-  "updated_at": "2026-11-16T23:34:21Z",
+  "updated_at": "2026-11-16T23:35:48Z",
   "apps": [
     {
       "id": "by-calendario",
@@ -159,6 +159,29 @@
         "ui.toast"
       ],
       "download_url": "https://raw.githubusercontent.com/Diegopam/byos-store-community/main/packages/redecanaistv-1.0.0.byt"
+    },
+    {
+      "id": "superflix",
+      "title": "Superflix Séries",
+      "version": "1.0.0",
+      "icon": "icons/superflix.png",
+      "min_byos_version": "2026.11",
+      "max_byos_version": null,
+      "author": "byOS Community Media",
+      "publisher_github": "Diegopam",
+      "category": "Midia",
+      "summary": "Catálogo Premium de Séries e Episódios",
+      "format": "BYOSPKG2",
+      "sha256": "815658432bd09f5d7490d0ba50372aa0e77b2d7d4fe90fab2277176d34725fc2",
+      "size_bytes": 20495726,
+      "path": "packages/superflix-1.0.0.byt",
+      "permissions": [
+        "network",
+        "apps.launch",
+        "system.exec",
+        "ui.toast"
+      ],
+      "download_url": "https://raw.githubusercontent.com/Diegopam/byos-store-community/main/packages/superflix-1.0.0.byt"
     }
   ]
 }
