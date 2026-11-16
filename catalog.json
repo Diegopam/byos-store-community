@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "channel": "community",
-  "updated_at": "2026-11-16T23:26:41Z",
+  "updated_at": "2026-11-16T23:27:47Z",
   "apps": [
     {
       "id": "by-calendario",
@@ -90,6 +90,29 @@
         "ui.toast"
       ],
       "download_url": "https://raw.githubusercontent.com/Diegopam/byos-store-community/main/packages/redecanaisanimes-1.0.0.byt"
+    },
+    {
+      "id": "redecanaisfilmes",
+      "title": "RedeCanais Filmes",
+      "version": "1.0.0",
+      "icon": "icons/redecanaisfilmes.png",
+      "min_byos_version": "2026.11",
+      "max_byos_version": null,
+      "author": "byOS Community Media",
+      "publisher_github": "Diegopam",
+      "category": "Midia",
+      "summary": "Cinema em HD • Catálogo completo RedeCanais",
+      "format": "BYOSPKG2",
+      "sha256": "02c7bb76c031027cd509d71a2b2fcc19cc1e7dbe849229179797661ceeb98015",
+      "size_bytes": 17020914,
+      "path": "packages/redecanaisfilmes-1.0.0.byt",
+      "permissions": [
+        "network",
+        "apps.launch",
+        "system.exec",
+        "ui.toast"
+      ],
+      "download_url": "https://raw.githubusercontent.com/Diegopam/byos-store-community/main/packages/redecanaisfilmes-1.0.0.byt"
     }
   ]
 }
