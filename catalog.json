@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "channel": "community",
-  "updated_at": "2026-11-16T23:36:31Z",
+  "updated_at": "2026-11-16T23:37:29Z",
   "apps": [
     {
       "id": "by-calendario",
@@ -205,6 +205,29 @@
         "ui.toast"
       ],
       "download_url": "https://raw.githubusercontent.com/Diegopam/byos-store-community/main/packages/tubetv-1.0.0.byt"
+    },
+    {
+      "id": "ytlinux",
+      "title": "YTLinux (YouTube)",
+      "version": "1.0.0",
+      "icon": "icons/ytlinux.png",
+      "min_byos_version": "2026.11",
+      "max_byos_version": null,
+      "author": "byOS Community Media",
+      "publisher_github": "Diegopam",
+      "category": "Midia",
+      "summary": "YouTube Desktop Nativo em GPU para byOS",
+      "format": "BYOSPKG2",
+      "sha256": "9d5a7df5b97c4dc9868a4b20b789a84bb8695044dce848c7c0eef98aeaebfeb1",
+      "size_bytes": 6519067,
+      "path": "packages/ytlinux-1.0.0.byt",
+      "permissions": [
+        "network",
+        "apps.launch",
+        "system.exec",
+        "ui.toast"
+      ],
+      "download_url": "https://raw.githubusercontent.com/Diegopam/byos-store-community/main/packages/ytlinux-1.0.0.byt"
     }
   ]
 }
