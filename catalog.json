@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "channel": "community",
-  "updated_at": "2026-11-16T23:33:10Z",
+  "updated_at": "2026-11-16T23:34:21Z",
   "apps": [
     {
       "id": "by-calendario",
@@ -136,6 +136,29 @@
         "ui.toast"
       ],
       "download_url": "https://raw.githubusercontent.com/Diegopam/byos-store-community/main/packages/redecanaisseries-1.0.0.byt"
+    },
+    {
+      "id": "redecanaistv",
+      "title": "RedeCanais TV",
+      "version": "1.0.0",
+      "icon": "icons/redecanaistv.png",
+      "min_byos_version": "2026.11",
+      "max_byos_version": null,
+      "author": "byOS Community Media",
+      "publisher_github": "Diegopam",
+      "category": "Midia",
+      "summary": "Smart TV Ao Vivo integrada ao byOS",
+      "format": "BYOSPKG2",
+      "sha256": "ce3dd8921a6410feea10b9335162ec846ae8ea02e22420a6a44b55b0bc7466c6",
+      "size_bytes": 17025407,
+      "path": "packages/redecanaistv-1.0.0.byt",
+      "permissions": [
+        "network",
+        "apps.launch",
+        "system.exec",
+        "ui.toast"
+      ],
+      "download_url": "https://raw.githubusercontent.com/Diegopam/byos-store-community/main/packages/redecanaistv-1.0.0.byt"
     }
   ]
 }
