@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "channel": "community",
-  "updated_at": "2026-11-16T23:38:55Z",
+  "updated_at": "2026-11-16T23:39:45Z",
   "apps": [
     {
       "id": "by-calendario",
@@ -228,6 +228,29 @@
         "ui.toast"
       ],
       "download_url": "https://raw.githubusercontent.com/Diegopam/byos-store-community/main/packages/redecanaisseries-1.0.0.byt"
+    },
+    {
+      "id": "ytmusic",
+      "title": "YouTube Music",
+      "version": "1.0.0",
+      "icon": "icons/ytmusic.png",
+      "min_byos_version": "2026.11",
+      "max_byos_version": null,
+      "author": "byOS Community Media",
+      "publisher_github": "Diegopam",
+      "category": "Midia",
+      "summary": "Áudio e Músicas do YouTube sem Distrações",
+      "format": "BYOSPKG2",
+      "sha256": "a653464b0929f1c4dd9bcf98345e5e915f1b3f032d5b212042bd07aceb56989a",
+      "size_bytes": 3344614,
+      "path": "packages/ytmusic-1.0.0.byt",
+      "permissions": [
+        "network",
+        "apps.launch",
+        "system.exec",
+        "ui.toast"
+      ],
+      "download_url": "https://raw.githubusercontent.com/Diegopam/byos-store-community/main/packages/ytmusic-1.0.0.byt"
     }
   ]
 }
