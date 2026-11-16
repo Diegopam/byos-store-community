@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "channel": "community",
-  "updated_at": "2026-11-16T23:37:29Z",
+  "updated_at": "2026-11-16T23:38:55Z",
   "apps": [
     {
       "id": "by-calendario",
@@ -115,29 +115,6 @@
       "download_url": "https://raw.githubusercontent.com/Diegopam/byos-store-community/main/packages/redecanaisanimes-1.0.0.byt"
     },
     {
-      "id": "redecanaisseries",
-      "title": "RedeCanais Séries",
-      "version": "1.0.0",
-      "icon": "icons/redecanaisseries.png",
-      "min_byos_version": "2026.11",
-      "max_byos_version": null,
-      "author": "byOS Community Media",
-      "publisher_github": "Diegopam",
-      "category": "Midia",
-      "summary": "Séries e Temporadas Dual Áudio no byOS",
-      "format": "BYOSPKG2",
-      "sha256": "a2c320f032596249aa0f265c9ebb847299adba697b55613753d74a8a75d3d481",
-      "size_bytes": 17012901,
-      "path": "packages/redecanaisseries-1.0.0.byt",
-      "permissions": [
-        "network",
-        "apps.launch",
-        "system.exec",
-        "ui.toast"
-      ],
-      "download_url": "https://raw.githubusercontent.com/Diegopam/byos-store-community/main/packages/redecanaisseries-1.0.0.byt"
-    },
-    {
       "id": "redecanaistv",
       "title": "RedeCanais TV",
       "version": "1.0.0",
@@ -228,6 +205,29 @@
         "ui.toast"
       ],
       "download_url": "https://raw.githubusercontent.com/Diegopam/byos-store-community/main/packages/ytlinux-1.0.0.byt"
+    },
+    {
+      "id": "redecanaisseries",
+      "title": "RedeCanais Séries",
+      "version": "1.0.0",
+      "icon": "icons/redecanaisseries.png",
+      "min_byos_version": "2026.11",
+      "max_byos_version": null,
+      "author": "byOS Community Media",
+      "publisher_github": "Diegopam",
+      "category": "Midia",
+      "summary": "Séries e Temporadas Dual Áudio no byOS",
+      "format": "BYOSPKG2",
+      "sha256": "a2c320f032596249aa0f265c9ebb847299adba697b55613753d74a8a75d3d481",
+      "size_bytes": 17012901,
+      "path": "packages/redecanaisseries-1.0.0.byt",
+      "permissions": [
+        "network",
+        "apps.launch",
+        "system.exec",
+        "ui.toast"
+      ],
+      "download_url": "https://raw.githubusercontent.com/Diegopam/byos-store-community/main/packages/redecanaisseries-1.0.0.byt"
     }
   ]
 }
