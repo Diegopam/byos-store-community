@@ -1,6 +1,26 @@
 {
   "schema_version": 1,
   "channel": "community",
-  "updated_at": "2026-11-16T01:51:00Z",
-  "apps": []
+  "updated_at": "2026-11-16T22:54:04Z",
+  "apps": [
+    {
+      "id": "by-calendario",
+      "title": "Calendário",
+      "version": "1.2.0",
+      "icon": "icons/by-calendario.svg",
+      "min_byos_version": "2026.11",
+      "max_byos_version": null,
+      "author": "byOS Corps",
+      "publisher_github": "Diegopam",
+      "category": "Utility",
+      "summary": "Calendário mensal interativo com feriados brasileiros, semanas e lembretes nativos para o byOS",
+      "sha256": "bba5f6e66f42aceb204574668395bd96060825ef3a882ec96842426082088522",
+      "size_bytes": 5075,
+      "path": "packages/by-calendario-1.2.0.byt",
+      "download_url": "https://raw.githubusercontent.com/Diegopam/byos-store-community/main/packages/by-calendario-1.2.0.byt",
+      "permissions": [
+        "ui.notify"
+      ]
+    }
+  ]
 }
