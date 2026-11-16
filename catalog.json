@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "channel": "community",
-  "updated_at": "2026-11-16T22:54:04Z",
+  "updated_at": "2026-11-16T23:01:24Z",
   "apps": [
     {
       "id": "by-calendario",
@@ -20,6 +20,29 @@
       "download_url": "https://raw.githubusercontent.com/Diegopam/byos-store-community/main/packages/by-calendario-1.2.0.byt",
       "permissions": [
         "ui.notify"
+      ]
+    },
+    {
+      "id": "by-whatsapp",
+      "title": "WhatsApp",
+      "version": "1.0.0",
+      "icon": "icons/by-whatsapp.svg",
+      "min_byos_version": "2026.11",
+      "max_byos_version": null,
+      "author": "byOS Studio",
+      "publisher_github": "Diegopam",
+      "category": "Comunication",
+      "summary": "WhatsApp nativo para byOS via whatsmeow + meowcaller",
+      "sha256": "11416817e680ea27caedccb99b5a3ab283b38203919f84947ebccda379cbb273",
+      "size_bytes": 17111507,
+      "path": "packages/by-whatsapp-1.0.0.byt",
+      "download_url": "https://raw.githubusercontent.com/Diegopam/byos-store-community/main/packages/by-whatsapp-1.0.0.byt",
+      "permissions": [
+        "network",
+        "audio",
+        "fs.read",
+        "ui.notify",
+        "system.exec"
       ]
     }
   ]
