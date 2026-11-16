@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "channel": "community",
-  "updated_at": "2026-11-16T23:35:48Z",
+  "updated_at": "2026-11-16T23:36:31Z",
   "apps": [
     {
       "id": "by-calendario",
@@ -182,6 +182,29 @@
         "ui.toast"
       ],
       "download_url": "https://raw.githubusercontent.com/Diegopam/byos-store-community/main/packages/superflix-1.0.0.byt"
+    },
+    {
+      "id": "tubetv",
+      "title": "TubeTV Studio",
+      "version": "1.0.0",
+      "icon": "icons/tubetv.png",
+      "min_byos_version": "2026.11",
+      "max_byos_version": null,
+      "author": "byOS Community Media",
+      "publisher_github": "Diegopam",
+      "category": "Midia",
+      "summary": "Canais 24/7 Contínuos de YouTubers",
+      "format": "BYOSPKG2",
+      "sha256": "e9c61521769ac6393c60337eb8d5bb8536bc8fd8b22a624cbc566067f49c5982",
+      "size_bytes": 3267966,
+      "path": "packages/tubetv-1.0.0.byt",
+      "permissions": [
+        "network",
+        "apps.launch",
+        "system.exec",
+        "ui.toast"
+      ],
+      "download_url": "https://raw.githubusercontent.com/Diegopam/byos-store-community/main/packages/tubetv-1.0.0.byt"
     }
   ]
 }
