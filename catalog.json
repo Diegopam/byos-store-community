@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "channel": "community",
-  "updated_at": "2026-11-16T23:27:47Z",
+  "updated_at": "2026-11-16T23:29:02Z",
   "apps": [
     {
       "id": "by-calendario",
@@ -69,29 +69,6 @@
       "download_url": "https://raw.githubusercontent.com/Diegopam/byos-store-community/main/packages/plutotv-1.0.0.byt"
     },
     {
-      "id": "redecanaisanimes",
-      "title": "RedeCanais Animes",
-      "version": "1.0.0",
-      "icon": "icons/redecanaisanimes.png",
-      "min_byos_version": "2026.11",
-      "max_byos_version": null,
-      "author": "byOS Community Media",
-      "publisher_github": "Diegopam",
-      "category": "Midia",
-      "summary": "Animes Studio com Índice A-Z e Maratona",
-      "format": "BYOSPKG2",
-      "sha256": "d6bd15585764029dc121b62e4fd043528177a939969dc658f53f09724d5c393d",
-      "size_bytes": 17069230,
-      "path": "packages/redecanaisanimes-1.0.0.byt",
-      "permissions": [
-        "network",
-        "apps.launch",
-        "system.exec",
-        "ui.toast"
-      ],
-      "download_url": "https://raw.githubusercontent.com/Diegopam/byos-store-community/main/packages/redecanaisanimes-1.0.0.byt"
-    },
-    {
       "id": "redecanaisfilmes",
       "title": "RedeCanais Filmes",
       "version": "1.0.0",
@@ -113,6 +90,29 @@
         "ui.toast"
       ],
       "download_url": "https://raw.githubusercontent.com/Diegopam/byos-store-community/main/packages/redecanaisfilmes-1.0.0.byt"
+    },
+    {
+      "id": "redecanaisanimes",
+      "title": "RedeCanais Animes",
+      "version": "1.0.0",
+      "icon": "icons/redecanaisanimes.png",
+      "min_byos_version": "2026.11",
+      "max_byos_version": null,
+      "author": "byOS Community Media",
+      "publisher_github": "Diegopam",
+      "category": "Midia",
+      "summary": "Animes Studio com Índice A-Z e Maratona",
+      "format": "BYOSPKG2",
+      "sha256": "d6bd15585764029dc121b62e4fd043528177a939969dc658f53f09724d5c393d",
+      "size_bytes": 17069230,
+      "path": "packages/redecanaisanimes-1.0.0.byt",
+      "permissions": [
+        "network",
+        "apps.launch",
+        "system.exec",
+        "ui.toast"
+      ],
+      "download_url": "https://raw.githubusercontent.com/Diegopam/byos-store-community/main/packages/redecanaisanimes-1.0.0.byt"
     }
   ]
 }
