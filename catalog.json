@@ -326,9 +326,35 @@
       "summary": "Navegue na Internet",
       "title": "Google Chrome",
       "version": "1.0.0"
+    },
+    {
+      "author": "AppImage Port",
+      "category": "Comunidade",
+      "download_url": "https://github.com/Diegopam/byos-store-community/releases/download/pkg-appimage-antigravity-v2.31.2/appimage-antigravity-2.31.2.byt",
+      "format": "BYOSPKG3",
+      "icon": "icons/appimage-antigravity.png",
+      "id": "appimage-antigravity",
+      "max_byos_version": null,
+      "min_byos_version": "2026.11",
+      "path": "packages/appimage-antigravity-2.31.2.byt",
+      "permissions": [
+        "ui.notify",
+        "sys.gpu",
+        "audio",
+        "network",
+        "fs.read",
+        "fs.write",
+        "system.exec"
+      ],
+      "publisher_github": "Diegopam",
+      "sha256": "eea0e09c85eb1de48f177d7113ef181b1476c987f012f979dc17db7b51fbd031",
+      "size_bytes": 231095625.0,
+      "summary": "Antigravity - Agentic Desktop Application",
+      "title": "Antigravity",
+      "version": "2.31.2"
     }
   ],
   "channel": "community",
   "schema_version": 1.0,
-  "updated_at": "2026-11-19T23:07:20Z"
+  "updated_at": "2026-11-19T23:24:27Z"
 }
