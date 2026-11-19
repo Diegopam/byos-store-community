@@ -274,9 +274,35 @@
       "summary": "App Launcher",
       "title": "ArtCraft Launcher",
       "version": "0.19.2"
+    },
+    {
+      "author": "AppImage Port",
+      "category": "Internet",
+      "download_url": "https://github.com/Diegopam/byos-store-community/releases/download/pkg-appimage-firefox-v1.0.0/appimage-firefox-1.0.0.byt",
+      "format": "BYOSPKG3",
+      "icon": "icons/appimage-firefox.png",
+      "id": "appimage-firefox",
+      "max_byos_version": null,
+      "min_byos_version": "2026.11.21",
+      "path": "packages/appimage-firefox-1.0.0.byt",
+      "permissions": [
+        "ui.notify",
+        "sys.gpu",
+        "audio",
+        "network",
+        "fs.read",
+        "fs.write",
+        "system.exec"
+      ],
+      "publisher_github": "Diegopam",
+      "sha256": "0d627e6b54973a255c9e6cef3c3398098bdca490d3040723064b31a700507411",
+      "size_bytes": 158060941.0,
+      "summary": "Navegue na Internet",
+      "title": "Firefox",
+      "version": "1.0.0"
     }
   ],
   "channel": "community",
   "schema_version": 1.0,
-  "updated_at": "2026-11-19T21:14:45Z"
+  "updated_at": "2026-11-19T22:58:02Z"
 }
