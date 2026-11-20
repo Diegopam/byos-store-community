@@ -456,9 +456,35 @@
       "summary": "Image Editor",
       "title": "paint.software",
       "version": "1.1.108"
+    },
+    {
+      "author": "AppImage Port",
+      "category": "Utilitários",
+      "download_url": "https://raw.githubusercontent.com/Diegopam/byos-store-community/main/packages/appimage-paint-c-0.1.3.byt",
+      "format": "BYOSPKG3",
+      "icon": "icons/appimage-paint-c.png",
+      "id": "appimage-paint-c",
+      "max_byos_version": null,
+      "min_byos_version": "2026.11.21",
+      "path": "packages/appimage-paint-c-0.1.3.byt",
+      "permissions": [
+        "ui.notify",
+        "sys.gpu",
+        "audio",
+        "network",
+        "fs.read",
+        "fs.write",
+        "system.exec"
+      ],
+      "publisher_github": "Diegopam",
+      "sha256": "3eca20cbff5ed585ef620402137fe609fd5615cbe6fe2895edbe6f7759788029",
+      "size_bytes": 12123273.0,
+      "summary": "Image Editor",
+      "title": "paint.c",
+      "version": "0.1.3"
     }
   ],
   "channel": "community",
   "schema_version": 1.0,
-  "updated_at": "2026-11-20T02:35:16Z"
+  "updated_at": "2026-11-20T02:37:27Z"
 }
