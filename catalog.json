@@ -482,9 +482,35 @@
       "summary": "Image Editor",
       "title": "paint.c",
       "version": "0.1.3"
+    },
+    {
+      "author": "AppImage Port",
+      "category": "Internet",
+      "download_url": "https://github.com/Diegopam/byos-store-community/releases/download/pkg-appimage-brave-v1.100.58/appimage-brave-1.100.58.byt",
+      "format": "BYOSPKG3",
+      "icon": "icons/appimage-brave.png",
+      "id": "appimage-brave",
+      "max_byos_version": null,
+      "min_byos_version": "2026.11.21",
+      "path": "packages/appimage-brave-1.100.58.byt",
+      "permissions": [
+        "ui.notify",
+        "sys.gpu",
+        "audio",
+        "network",
+        "fs.read",
+        "fs.write",
+        "system.exec"
+      ],
+      "publisher_github": "Diegopam",
+      "sha256": "c4b812cae6579fc0a57b63ded88bf646699f8d65d0bd212796d8bb4579e56a09",
+      "size_bytes": 262356855.0,
+      "summary": "Aceder à Internet",
+      "title": "Brave",
+      "version": "1.100.58"
     }
   ],
   "channel": "community",
   "schema_version": 1.0,
-  "updated_at": "2026-11-20T02:37:27Z"
+  "updated_at": "2026-11-20T02:52:11Z"
 }
