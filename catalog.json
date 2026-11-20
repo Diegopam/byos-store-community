@@ -404,9 +404,35 @@
       "summary": "Aplicativo para jogar e gerenciar jogos no Steam",
       "title": "Steam",
       "version": "1.0.0.87"
+    },
+    {
+      "author": "AppImage Port",
+      "category": "Utilitários",
+      "download_url": "https://github.com/Diegopam/byos-store-community/releases/download/pkg-appimage-vfinder-v0.7.0/appimage-vfinder-0.7.0.byt",
+      "format": "BYOSPKG3",
+      "icon": "icons/appimage-vfinder.png",
+      "id": "appimage-vfinder",
+      "max_byos_version": null,
+      "min_byos_version": "2026.11.21",
+      "path": "packages/appimage-vfinder-0.7.0.byt",
+      "permissions": [
+        "ui.notify",
+        "sys.gpu",
+        "audio",
+        "network",
+        "fs.read",
+        "fs.write",
+        "system.exec"
+      ],
+      "publisher_github": "Diegopam",
+      "sha256": "187983b881d7fe4d0c9bf157c58b1eeebb4da42cd61775398cba3429bb106c31",
+      "size_bytes": 192685752.0,
+      "summary": "vFinder File Manager",
+      "title": "vFinder",
+      "version": "0.7.0"
     }
   ],
   "channel": "community",
   "schema_version": 1.0,
-  "updated_at": "2026-11-20T02:20:53Z"
+  "updated_at": "2026-11-20T02:27:00Z"
 }
