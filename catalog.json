@@ -378,9 +378,35 @@
       "summary": "Download videos and audios from YouTube and many other sites",
       "title": "YTDownloader",
       "version": "4.1.0"
+    },
+    {
+      "author": "AppImage Port",
+      "category": "Games",
+      "download_url": "https://github.com/Diegopam/byos-store-community/releases/download/pkg-appimage-steam-v1.0.0.87/appimage-steam-1.0.0.87.byt",
+      "format": "BYOSPKG3",
+      "icon": "icons/appimage-steam.png",
+      "id": "appimage-steam",
+      "max_byos_version": null,
+      "min_byos_version": "2026.11.21",
+      "path": "packages/appimage-steam-1.0.0.87.byt",
+      "permissions": [
+        "ui.notify",
+        "sys.gpu",
+        "audio",
+        "network",
+        "fs.read",
+        "fs.write",
+        "system.exec"
+      ],
+      "publisher_github": "Diegopam",
+      "sha256": "acc2c86a70589581e696bf2ae776476e0afe13a684324e29290f5e0bc33cb5f6",
+      "size_bytes": 447785167.0,
+      "summary": "Aplicativo para jogar e gerenciar jogos no Steam",
+      "title": "Steam",
+      "version": "1.0.0.87"
     }
   ],
   "channel": "community",
   "schema_version": 1.0,
-  "updated_at": "2026-11-20T00:02:52Z"
+  "updated_at": "2026-11-20T02:20:53Z"
 }
