@@ -352,9 +352,35 @@
       "summary": "Antigravity - Agentic Desktop Application",
       "title": "Antigravity",
       "version": "2.31.2"
+    },
+    {
+      "author": "AppImage Port",
+      "category": "Comunidade",
+      "download_url": "https://github.com/Diegopam/byos-store-community/releases/download/pkg-appimage-ytdownloader-v4.1.0/appimage-ytdownloader-4.1.0.byt",
+      "format": "BYOSPKG3",
+      "icon": "icons/appimage-ytdownloader.png",
+      "id": "appimage-ytdownloader",
+      "max_byos_version": null,
+      "min_byos_version": "2026.11",
+      "path": "packages/appimage-ytdownloader-4.1.0.byt",
+      "permissions": [
+        "ui.notify",
+        "sys.gpu",
+        "audio",
+        "network",
+        "fs.read",
+        "fs.write",
+        "system.exec"
+      ],
+      "publisher_github": "Diegopam",
+      "sha256": "d27e2fc9a350c848e72aa89ef7abd7092ddf19a4788032ba5df332690e835da6",
+      "size_bytes": 243655090.0,
+      "summary": "Download videos and audios from YouTube and many other sites",
+      "title": "YTDownloader",
+      "version": "4.1.0"
     }
   ],
   "channel": "community",
   "schema_version": 1.0,
-  "updated_at": "2026-11-19T23:24:27Z"
+  "updated_at": "2026-11-20T00:02:52Z"
 }
