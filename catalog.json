@@ -508,9 +508,35 @@
       "summary": "Aceder à Internet",
       "title": "Brave",
       "version": "1.100.58"
+    },
+    {
+      "author": "AppImage Port",
+      "category": "Internet",
+      "download_url": "https://github.com/Diegopam/byos-store-community/releases/download/pkg-appimage-microsoft-edge-v157.0.4341.60/appimage-microsoft-edge-157.0.4341.60.byt",
+      "format": "BYOSPKG3",
+      "icon": "icons/appimage-microsoft-edge.png",
+      "id": "appimage-microsoft-edge",
+      "max_byos_version": null,
+      "min_byos_version": "2026.11.21",
+      "path": "packages/appimage-microsoft-edge-157.0.4341.60.byt",
+      "permissions": [
+        "ui.notify",
+        "sys.gpu",
+        "audio",
+        "network",
+        "fs.read",
+        "fs.write",
+        "system.exec"
+      ],
+      "publisher_github": "Diegopam",
+      "sha256": "ee22802006d6a0c87e98c956f88928853aeea0aa48ffcc4dbf9799fae2f9cc39",
+      "size_bytes": 345186796.0,
+      "summary": "Aceder à Internet",
+      "title": "Microsoft Edge",
+      "version": "157.0.4341.60"
     }
   ],
   "channel": "community",
   "schema_version": 1.0,
-  "updated_at": "2026-11-20T02:52:11Z"
+  "updated_at": "2026-11-20T02:57:54Z"
 }
