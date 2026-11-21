@@ -434,32 +434,6 @@
     {
       "author": "AppImage Port",
       "category": "Utilitários",
-      "download_url": "https://github.com/Diegopam/byos-store-community/releases/download/pkg-appimage-paint-software-v1.1.108/appimage-paint-software-1.1.108.byt",
-      "format": "BYOSPKG3",
-      "icon": "icons/appimage-paint-software.png",
-      "id": "appimage-paint-software",
-      "max_byos_version": null,
-      "min_byos_version": "2026.11.21",
-      "path": "packages/appimage-paint-software-1.1.108.byt",
-      "permissions": [
-        "ui.notify",
-        "sys.gpu",
-        "audio",
-        "network",
-        "fs.read",
-        "fs.write",
-        "system.exec"
-      ],
-      "publisher_github": "Diegopam",
-      "sha256": "c5de4afc7ab46c8e79e7200db89ab58ea78403c1e5df1aced748b0588592f34c",
-      "size_bytes": 39021487.0,
-      "summary": "Image Editor",
-      "title": "paint.software",
-      "version": "1.1.108"
-    },
-    {
-      "author": "AppImage Port",
-      "category": "Utilitários",
       "download_url": "https://raw.githubusercontent.com/Diegopam/byos-store-community/main/packages/appimage-paint-c-0.1.3.byt",
       "format": "BYOSPKG3",
       "icon": "icons/appimage-paint-c.png",
@@ -534,9 +508,35 @@
       "summary": "Aceder à Internet",
       "title": "Microsoft Edge",
       "version": "157.0.4341.60"
+    },
+    {
+      "author": "AppImage Port",
+      "category": "Utilitários",
+      "download_url": "https://github.com/Diegopam/byos-store-community/releases/download/pkg-appimage-paint-software-v1.1.108/appimage-paint-software-1.1.108.byt",
+      "format": "BYOSPKG3",
+      "icon": "icons/appimage-paint-software.png",
+      "id": "appimage-paint-software",
+      "max_byos_version": null,
+      "min_byos_version": "2026.11.21",
+      "path": "packages/appimage-paint-software-1.1.108.byt",
+      "permissions": [
+        "ui.notify",
+        "sys.gpu",
+        "audio",
+        "network",
+        "fs.read",
+        "fs.write",
+        "system.exec"
+      ],
+      "publisher_github": "Diegopam",
+      "sha256": "554c35677fdefe1fd429e14402129a8100a2e7172ce4983c2189bc9c2bbcb2c0",
+      "size_bytes": 41437307.0,
+      "summary": "Image Editor",
+      "title": "paint.software",
+      "version": "1.1.108"
     }
   ],
   "channel": "community",
   "schema_version": 1.0,
-  "updated_at": "2026-11-20T02:57:54Z"
+  "updated_at": "2026-11-21T11:28:13Z"
 }
